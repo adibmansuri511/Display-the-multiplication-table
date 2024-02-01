@@ -1,2 +1,2 @@
-# display-the-multiplication-table
- Practice Example
+# Display-the-multiplication-table
+JavaScript Practice Example.
